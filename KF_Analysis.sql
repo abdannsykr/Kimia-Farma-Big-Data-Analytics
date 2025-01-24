@@ -1,5 +1,5 @@
 SELECT
-  t.customer_name,  -- Nama customer yang melakukan transaksi
+  t.customer_name,
   p.product_id,
   p.product_name,  -- Nama obat
   p.price AS actual_price,  -- Harga obat
