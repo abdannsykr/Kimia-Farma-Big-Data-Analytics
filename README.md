@@ -13,10 +13,10 @@ Proyek ini bertujuan untuk menciptakan **tabel analisis** yang mencakup metrik u
 
 Berikut adalah visualisasi **Dashboard Kimia Farma** yang memberikan gambaran mengenai kinerja bisnis selama periode 2020-2023:
 
-![Dashboard Kimia Farma](images/Dashboard_Project_Based_Internship.jpg)
+![Dashboard Kimia Farma](https://github.com/abdannsykr/Kimia-Farma-Big-Data-Analytics/blob/main/Dashboard_Project_Based_Internship.jpg)
 
 ### Tabel Relasional
 
 Berikut adalah gambar dari tabel relasional yang digunakan dalam analisis data:
 
-![Tabel Relasional](images/table_relational.jpg)
+![Tabel Relasional](https://github.com/abdannsykr/Kimia-Farma-Big-Data-Analytics/blob/main/table_relational.jpg)
