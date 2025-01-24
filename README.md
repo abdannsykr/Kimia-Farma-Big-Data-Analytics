@@ -15,6 +15,8 @@ Berikut adalah visualisasi **Dashboard Kimia Farma** yang memberikan gambaran me
 
 ![Dashboard Kimia Farma](https://github.com/abdannsykr/Kimia-Farma-Big-Data-Analytics/blob/main/Dashboard_Project_Based_Internship.jpg)
 
+**[Link ke Dashboard Looker Studio](URL_https://lookerstudio.google.com/reporting/a1984129-c37a-4aad-a230-7b9f379ba4d4)**
+
 ### Tabel Relasional
 
 Berikut adalah gambar dari tabel relasional yang digunakan dalam analisis data:
